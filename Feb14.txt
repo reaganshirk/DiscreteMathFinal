@@ -1,0 +1,6 @@
+- Definition:
+	- If n and k are integers, let nCk (n choose k) denote the number of subsets that can be made by choosing k elements from an n element set
+		- nCk = nC(n-k)
+		- nCk = n! / k!(n - k)!
+- Binomial theorem:
+	- (n+1)Ck = nC(k - 1) + nCk

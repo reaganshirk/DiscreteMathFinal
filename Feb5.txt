@@ -1,0 +1,28 @@
+- Definition:
+	- We say that lim(a_n) = a if for every epsilon greater than 0, there exists a k such that for ever n greater than k, |a_n - a| < epsilon
+	- Negation of this definition:
+		- lim(a_n) != a if there exists an epsilon greater than 0 such that for every k, there exists an n greater than k for which |a_n - a| >= epsilon
+- Strategies of Proof (non exhaustive list)
+	- Modus Ponens (was on Exam 1)
+		- [(P --> Q) and (P)] --> Q
+		- Proof: show that the above statement is a totality
+		P	Q	P -> Q	P -> Q and P	[P->Q and P]->Q
+		T	T	T		T			T	
+		T	F	F		F			T
+		F	T	T		F			T
+		F	F	T		F			T
+	- Modus Tollens
+		- [P --> Q] and (~Q)] --> ~P
+	- Transitivity
+		- [(P --> Q) and (Q --> R)] --> [P --> Q]
+	- Disjunctive Syllogism (Elimination)
+		- [(P or Q) and (~P)] --> Q
+	- Simplification
+		- [P and Q] --> P
+		- [P and Q] --> Q
+	- Generalization
+		- P --> (P or Q)
+	- Contradiction
+		- [~P --> contradiction] --> P
+	- Cases 
+		- [(P or Q) and (P --> R) and (Q --> R)] --> R

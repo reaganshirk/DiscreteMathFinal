@@ -1,0 +1,2 @@
+- Inclusion-Exclusion principle:
+	- A, B are sets and |A|, |B| are their cardinalities. The inclusion-exclusion principle states that |A union B| = |A| + |B| - |A intersection B|

@@ -1,0 +1,14 @@
+- Addition and Subtraction Principles
+	- The addition principle
+		- Suppose a finite set x can be decomposed as a union x = x1 union x2 union x3 union ... union xn = the union of xi where xi intersection xj != 0 (or the empty set?) if i != j, then the sum of the cardinalities of the x's = the summation |xi|. This type of decomposition is sometimes called a partition. 
+	- The subtraction principle
+		- If y is a subset of x (finite set), then |ybar| = |x| - |y|
+		- Must prove that y is a subset of x to use the subtraction principle, you can't say it is assumed
+- Factorials and permutations
+	- Definitions: 
+		- if n >= 0, then n! is the number of things that can be made out of n distinct symbols and of length n without repitition
+		- A permutation is an arrangement of all the elements from a set in a list without repetition
+			- ** When order does NOT matter, use choose. When order DOES matter, use permutation)
+			- The number of permutations that exist with exactly n symbols is n!
+			- P(n, k) = n! / (n - k)!
+	

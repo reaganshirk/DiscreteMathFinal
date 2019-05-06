@@ -1,0 +1,15 @@
+- Definition:
+	- List is an ordered sequence of objects
+		- Set = unordered, list = ordered
+	- Length is the number of objects in the list
+	- Two lists are equal of they have the same length and the same entries in the same positions
+- Multiplication Principles
+	- Make a list:
+		- (one of the letters A B C, one of the letters x y, one of the digits 1 2 3)
+		- Step 1: Choose the first entry 
+		- Step 2: Choose the second entry
+		- Step 3: Choose the third entry
+		- Total possible choices: number of options for first entry + number of options for second entry + number of options for third entry
+	- Multiplication principle
+		- If you're making a string of length n (a1, a2, a3, ... , an) where a1 can be one of k1 choices, a2 can be one of k2 choices, ... , an can be one of kn choices, then the number of possible strings is k1*k2*...*kn
+		- One has to specify whether it's ordered or unordered, repetition allowed or not allowed, and if the objects are distinct from one another

@@ -1,0 +1,16 @@
+- 52 card deck, draw 5, put them in a list
+	- How many lists are there if one card is a queen?
+		- Exactly 0 queens:
+			- P(48, 4) = 48*47*46*45*44
+		- Exactly 1 queen:
+			- 4 * 5 * P(48, 4)
+		- Exactly 2 queens:
+			- 4C2 * 5C2 * 2! * P(48, 3)
+		- Exactly 3 queens:
+			- 4C3 * 5C4 * 3! * P(48, 2)
+		- Exactly 4 queens:
+			- 4C4 * 5C4 * 4! * P(48, 1)
+	- The sum should equal the total number of lists of length 5 made out of 52 cards wich is P(52, 5)
+- Pigeonhole principle
+	- If you have k+1 objects, you can fill k boxes with one box having two objects
+	- If you have n > k objects in k boxes, at least one box will have 2 objects

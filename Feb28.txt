@@ -1,0 +1,25 @@
+- Direct proofs
+	- Axions: self obvious things
+	- Theorems: build on axions
+		- Lemma: a small theorem that is used in the proof of another result
+		- Proposition: an "easier" theorem
+	- For a direct proof: 
+		- If P, then A
+		- Assume that P is true and use the rules of logic to show that Q is true
+- Definitions:
+	- An integer is even if n = 2a
+	- An integer is odd if n = 2a + 1
+	- 2 integers have the same parity if they are both even or both odd. If not they have the opposite parity
+	- We say that A divides B (A|B) if B = AC
+	- A number is prime if it has exaclty 2 divisors, 1 and itself. Otherwise it is composite
+	- The greatest common divisor of a,b is the largest integer that divides both a and b.
+	- The least common multiple of a,b is the smallest integer that is a multiple of both a and b
+- The division algorithm
+	- Given integers a, b with b > 0, there exists unique integers q and r such that a = qb + r, o <= r < b, a = q/b with remainder r
+- Common Proof Mistakes:
+	- Arguing from examples
+	- Using the same letter for different varaibles/meanings
+	- Jumping to conclusion
+	- Circular reasoning
+	- Confusion between what is known and what needs to be shown
+	- Confusion between "any" and "some"
