@@ -1,0 +1,16 @@
+- Functions
+	- A function can take its argument from some set A and give as an output an element of a set B. 
+	- Let A,B be sets. A function f from A to B is a relation f is a subset of A x B, satisfying the propery that for every a in A, the relation of f contains exaclty one ordered pair of the form (a, b). 
+	- A function must:
+		- not have 2 pairs that start with the same number
+		- have exactly 1 pair for each element in A
+- Definitions
+	- Let f: A --> B
+		- A is the domain of f. The set of all possible input values
+		- B is the codomain of f, the "target" of f
+		- The range is the set of all possible output values of f, can be equal to but must not be greater than the codomain
+	- Two functions f: A --> B and g: A --> D are said to be equal if f = g as sets. f = g iff f(a) = g(a) for every a in a. f and g can be equal with a different codomain
+- Injective and Surjective functions
+	- Injective (1-to-1) if for every a,b in A, a != b implies that f(a) != f(b)
+	- Surjective (onto) if for every b in B, there exists an a in A such that f(a) = b
+	- Bijective if both injective and surjective

@@ -1,0 +1,10 @@
+- Proving injectivity
+	- Direct: take any a, b in A such that a != b, therefore f(a) != f(b)
+	- Contrapositive: Assume that a, b, in A are such that f(a) = f(b) therefore a = b
+- Proving surjectivity
+	- Take an arbitrary element b from B, show that f(x) = b for some x in the domain
+- Proving bijectivity
+	- Prove that the function is both surjective and injective
+- Pigeonhole Principle for functions
+	- if |A| > |B|, the function is non injective
+	- if |B| > |A|, the function is non surjective

@@ -1,0 +1,5 @@
+- Strong Induction
+	- Idea:
+		- Prove that all statements s1, s2, s3 ... are true, prove that the first several sj are true. Then assume s1, s2, ... , sk are all true and prove sk+1
+
+** Rest are examples **

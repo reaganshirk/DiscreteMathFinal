@@ -1,0 +1,4 @@
+- Relations
+	- A relation on a set A is a subset R of  A x A. Abbreviated as xRy
+
+** Rest is examples **

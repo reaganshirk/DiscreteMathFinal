@@ -1,0 +1,14 @@
+- Definition:
+	- A partition of a set A is a set of non-empty subsets of A such that the union of all of these subsets equals A and the intersection of any two different subets is an empty set
+		- A partition must be:
+			- non empty
+			- non overlapping
+			- their union = A
+- Theorem:
+	- Let R be an equivalence relation on set A. Then the set of equivalence classes {[a]} of R forms a partition of A. 
+		- To prove:
+			- [a] != 0 for all a in A
+			- the union of [a] = A
+			- if [a] != [b], then [a] and [b] = the empty set
+- Relations between sets:
+	- Given sets A and B, define relation from A to B as a subset R of A x B

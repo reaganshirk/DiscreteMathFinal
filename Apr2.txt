@@ -1,0 +1,4 @@
+** Mostly induction examples **
+- Strong induction
+	- Prove s1, s2, ... , sp for some p
+	- Assume s1, s2, ... , sk are all true, prove sk+1 is true

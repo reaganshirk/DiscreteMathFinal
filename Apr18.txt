@@ -1,0 +1,8 @@
+- Equivalence classes and partitions
+	- Set A, equivalence relation R on A, let a,b belong to A, then:
+		- [a] = [b] iff aRb
+		- How to prove:
+			- Prove [a] = [b] --> aRb
+			- Prove aRb --> [a] = [b]
+				- aRb --> [a] is a subset of [b]
+				- aRb --> [b] is a subset of [a]
