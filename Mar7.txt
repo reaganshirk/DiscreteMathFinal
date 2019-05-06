@@ -1,0 +1,14 @@
+- P --> Q
+	- Contrapositive: ~Q --> ~P
+	- Converse: Q --> P
+	- Inverse: ~P --> ~Q
+- Contrapositive proof:
+	- Given if p, then q
+	- Assume ~q
+	- Prove ~p
+- Congruence of Integers
+	- a, b belong to Z, n belongs to N. We say that a and b are congruent modulus n if n|(a - b). 
+		- Written as: a (congruence sign) b mod n
+	- If a = kn + r where r is the remainder of dividing a by n, then a is congruent to r mod n, n|(a - r), a - r = kn
+- Proof by contradiction
+	- Assume that ~p is true and come to the conclusion that ~p is false, i.e p is true

@@ -1,0 +1,6 @@
+- Contrapositive proof:
+	- (P --> Q) iff arrow (~Q --> ~P)
+	- Proposition: if P, then Q
+	- Poof: Suppose ~Q (Q is false), therefore ~P (p is false)
+	- P --> Q is equivalent to ~Q --> ~P
+	- Q --> P is equivalent to ~P --> ~Q

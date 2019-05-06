@@ -1,0 +1,21 @@
+- Proofs involving sets
+	- Proving a belongs to A
+		- A = {x : P(x)}
+		- To prove that a belongs to A, must show that P(a) is true
+		- A = {x belongs to X : P(x)}
+		- To prove that a belongs to A, must show that:
+			- a belongs to X
+			- P(a) is true
+- Proving that A is a subset of B
+	- A is a subset of B if a belongs to A implies a belongs to B for every a that belongs to A.
+	- Direct proof:
+		- Suppose a belongs to A, therefore a belongs to B, so A is a subset of B
+	- Contrapositive proof:
+		- a does not belong to B implies that a does not belong to A
+- Proving that A = B 
+	- A = B means that A is a subset of B and B is a subset of A
+	- To prove, prove that:
+		- A is a subset of B
+			- show that for every a that belongs to A, a belongs to A implies a belongs to B
+		- B is a subset of A
+			- show that for every b that belongs to B, b belongs to B implies b belongs to A

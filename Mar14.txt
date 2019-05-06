@@ -1,0 +1,9 @@
+- Proving non conditional statements
+	- Proposition: P iff arrow Q
+	- Proof: (P iff arrow Q) = [(P --> Q) and (Q --> P)]
+- Equivalent Statements
+	- p iff q, p iff r, p iff s, q iff r, q iff s, r iff s
+		- You can start at any p, q, r, s and prove any other p, q, r, s
+- Existence proofs
+	- Proposition: There exists a thing such that it meets this property
+	- Proof: Find a thing that meets that property, the proposition is true. 

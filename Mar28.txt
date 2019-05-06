@@ -1,0 +1,8 @@
+- Disproof
+	- Given P, prove ~P
+	- Given for every x in S, P(x), prove that there exists an x in S, ~P(x)
+- Mathematical induction:
+	- Prove that the statements s1, s2, s3, ... are all true
+		- Step 1: prove S1
+		- Step 2: Assume that Sk is true for some k that belongs to N
+		- Prove that Sk+1 is true
