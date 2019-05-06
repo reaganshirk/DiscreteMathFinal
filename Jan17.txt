@@ -1,0 +1,19 @@
+- Visualize the set R^2 x N (real numbers squared by natural numbers) as a subspace of R^3 (real numbers cubed)
+	- There will by an xy plane on every positive integer in the z axis
+- Let C = {1, 2, 3}, D = {a, b}
+	- C x D = {{1, 2, 3}, {a, b}}
+		= {{1, a}, {1, b}, {2, a} ... }
+	- D x C = {{a, b}, {1, 2, 3}}
+	- D x D = {{a, b}, {a, b}}
+	- C x D x C = {{1, 2, 3}, {a, b}, {1, 2, 3}}
+- If A is a finite set with n elements, A has 2^n subsets
+	- This is also equal to the cardinality of the power set of A
+	- Example:
+		- A = {1, 2, 3}
+		- P({1}) = {empty set, {1}}
+		- P({1, 2}) = {empty set, {1}, {2}, {1, 2}}
+		- Cardinality of A (represented as |A|) = 3
+			- Number of elements in A
+		- Cardinality of P(A) = 8
+			- Number of elements in the power set of A, equal to 2^n
+	

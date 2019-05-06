@@ -1,0 +1,6 @@
+- Set:
+	- A collection of shit
+	- {1, 2, 3} = {2, 1, 3}
+		- Order doesn't matter
+	- Infinite set: Set you can not count
+	- Finite set: set you can count

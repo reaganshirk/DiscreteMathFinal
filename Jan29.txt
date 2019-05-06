@@ -1,0 +1,2 @@
+- When P <--> Q is always true, then P equivalent to Q means the same as P <--> Q and is a totality
+	- ~(P --> Q) iff arrow ~[(~P) or Q] iff arrow P and ~Q

@@ -1,0 +1,9 @@
+- Distributive Law for Numbers
+	- x, y, z belong to the real numbers
+	- x(y + z) = xy + xz
+- Distributive Law for Sets
+	- Intersection = multiplication
+	- Union = addition
+	- A, B, C are sets
+	- A intersection (B union C) = (A intersection B) union (A intersection C)
+	- A union (B intersection C) = (A union B) intersection (A union C)

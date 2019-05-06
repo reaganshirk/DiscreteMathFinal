@@ -1,0 +1,29 @@
+- Truth Tables
+	- OR operation
+		P	Q	R
+		T	T	T	
+		T	F	T
+		F	T	T
+		F	F	F
+	- AND Operation
+		P	Q	R
+		T	T	T
+		T	F	F
+		F	T	F
+		F	F	F
+- De Morgans Laws
+	- ~(P and Q) = ~P or ~Q
+	- ~(P or Q) = ~P and ~Q
+- Contrapositive Law
+	- P --> Q = ~Q --> ~P
+- Commutative Laws:
+	- P and Q = Q and P
+	- P or Q = Q or P
+- Distributive Laws
+	- P and (Q or R) = (P and Q) or (P and R)
+	- P or (Q and R) = (P or Q) and (P or R)
+- Associative Laws
+	- P and (Q and R) = (P and Q) and R
+	- P or (Q or R) = (P or Q) or R
+	
+	

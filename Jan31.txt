@@ -1,0 +1,9 @@
+- Prove that the intersection of A_a is a subset of the union of A_a when {A_a} is a collection of sets
+	- B is a subset of C means, by definition, that for every b that belongs to B, b also belongs to C
+	- Therefore, we need to prove that there is an x that belongs to the intersection of A_a that also belongs to the union of A_a
+	- Let x belong to the intersection of A_a. This, by definition, means that there exists an a in I, such that x belongs to A_a.
+	- By the definition of union of sets, this is equivalent to saying that x belongs to the union of A_a
+- Goldback Conjecture
+	- Find an x that belongs to the even numbers so that no matter what y, z that belongs to the product you take, x is not equal to y + z
+	- Negation of that statement:
+		- There exists an x in the even numbers such that for every y, z in the product, x is not equal to y + z
