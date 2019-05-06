@@ -1,0 +1,17 @@
+- Relation concepts
+	- relations
+	- equivalence relations
+	- partitions
+	- functions
+		- injective, surjective, bijective
+- Composition functions
+	- g(f(a)) or f(g(a))
+	- if f(g()) and g(f()) are both defined, then f(g()) != g(f()) in general
+	- Composition functions are associative
+		- h of (g of f) = (h of g) of f
+	- If both f and g are injective, then g of f is injective, same with surjective
+- Inverse function
+	- A function must be bijective to have an inverse
+	- For a set A, the identity on A is i_a: A --> A is defined by i_a(a) = a
+	- A bijective function F: A --> B means that f is a subset of A x B
+	- Given a relation R from A to B, the inverse relation is defined as R^-1 = {(b, a) : a, b belong to R}
